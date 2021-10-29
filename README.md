@@ -32,16 +32,16 @@ This can be found in the ***Churn_Model.ipynb*** jupyter notebook
 The numeric values such as *TotalCharges* and *MonthlyCharges* were used without any changes and the categorical values such as *gender*, *paymentMethod*, etc. were one hot encoded 
 <br> </br>
 Initially the model was trained one the original preprocessed data with **Decision Tree** and the following results werwe obtained:
-* Accuracy: 0.79 
-* Precision: 0.74
-* Recall: 0.71
-* F1 Score: 0.72
+* Accuracy: ***0.79***
+* Precision: ***0.74***
+* Recall: ***0.71***
+* F1 Score: ***0.72***
 
 The performance of the model was not good, and was as expected because the dataset is **skewed**, with *less samples* for No Churn. *Upsampling* with **SMOTE-ENN** and retraining the model, significantly improved the performance of the model, with the following results:
-* Accuracy: 0.94 
-* Precision: 0.94
-* Recall: 0.94
-* F1 Score: 0.94
+* Accuracy: ***0.94*** 
+* Precision: ***0.94***
+* Recall: ***0.94***
+* F1 Score: ***0.94***
 
 Apart from decision tree, different models were trained such as **Random Forest Classifier** and **XGBoost**. On comparing the results no significant difference was found in the performance of these models.
 

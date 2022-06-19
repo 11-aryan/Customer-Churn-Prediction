@@ -17,7 +17,7 @@ Link to the Web Application: https://churn-prediction-webapp.herokuapp.com/
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 <br>
 <br>
-<img src="Images/ChurnPrediction.png" width="700">
+<img src="Images/ChurnPrediction.png" width="800">
 ### Exploratory Data Analysis
 The data preprocessing and EDA can be found in the ***EDA.ipynb*** jupyter notebook.
 The data was preprocessed to remove duplicates, the dropping the Null values as the percentage of Null values was small.

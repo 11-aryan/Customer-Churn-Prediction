@@ -31,7 +31,7 @@ Link to the Web Application: https://churn-prediction-webapp.herokuapp.com/
 
 <br>
 <br>
-<img src="https://github.com/11-aryan/Customer-Churn-Prediction/Images/numpy.png" width="800">
+<img src="https://user-images.githubusercontent.com/55359898/209970037-a7027cb2-c979-4abb-bbc5-fa70a19a0bb1.png" width="800">
 
 
 ### Exploratory Data Analysis

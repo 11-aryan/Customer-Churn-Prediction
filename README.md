@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction
 A web-application made with flask that predicts whether a customer will churn or not
 <br> </br>
-Link to the Web Application: https://churn-prediction-webapp.herokuapp.com/
+Link to the Web Application: https://churn-prediction.onrender.com
 
 ### Built with
 <a href="https://www.python.org/">
@@ -67,4 +67,4 @@ Apart from decision tree, different models were trained such as **Random Forest 
 ### Web Application
 The web applicatoin takes the input from the user for differnt features such as MonthlyCharges, Payment Method, Contract type, etc. and displays a message whether the customer with the given input features is likely to churn or not, along with the confidence of the prediction.
 <br> </br>
-The front-end of the web application is made with **HTML**, **CSS, bootstrap** and in the back-end **Flask** is used. This web application is deployed on Heroku, and the link to it can be found at the top.
+The front-end of the web application is made with **HTML**, **CSS, bootstrap** and in the back-end **Flask** is used. This web application is deployed on Render, and the link to it can be found at the top.

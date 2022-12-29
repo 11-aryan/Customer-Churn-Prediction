@@ -4,29 +4,29 @@ A web-application made with flask that predicts whether a customer will churn or
 Link to the Web Application: https://churn-prediction-webapp.herokuapp.com/
 
 ### Built with
-<a href="https://skillicons.dev">
+<a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" />
 </a>
-<a href="https://skillicons.dev">
+<a href="https://www.tensorflow.org/">
     <img src="https://skillicons.dev/icons?i=tensorflow" />
 </a>
-<a href="https://skillicons.dev">
-    <img src="https://github.com/11-aryan/Customer-Churn-Prediction/Images/numpy.png" />
+<a href="https://pandas.pydata.org/">
+    <img src="https://user-images.githubusercontent.com/55359898/209969238-b1349651-9324-474b-9d96-17ada096c75e.png" height=50/>
 </a>
-<a href="https://skillicons.dev">
-    <img src="https://github.com/11-aryan/Customer-Churn-Prediction/Images/numpy.png" />
+<a href="https://numpy.org/">
+    <img src="https://user-images.githubusercontent.com/55359898/209969436-17256362-93a3-46da-9e1e-f503460e1670.png" height=50/>
 </a>
-<a href="https://skillicons.dev">
+<a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
 </a>
-<a href="https://skillicons.dev">
+<a href="https://www.w3schools.com/html/">
     <img src="https://skillicons.dev/icons?i=html" />
 </a>
-<a href="https://skillicons.dev">
+<a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=css" />
 </a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku" />
+<a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
 </a>
 
 <br>

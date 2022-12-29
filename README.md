@@ -11,10 +11,10 @@ Link to the Web Application: https://churn-prediction-webapp.herokuapp.com/
     <img src="https://skillicons.dev/icons?i=tensorflow" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy" />
+    <img src="https://github.com/11-aryan/Customer-Churn-Prediction/Images/numpy.png" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas" />
+    <img src="https://github.com/11-aryan/Customer-Churn-Prediction/Images/numpy.png" />
 </a>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git" />
@@ -31,7 +31,9 @@ Link to the Web Application: https://churn-prediction-webapp.herokuapp.com/
 
 <br>
 <br>
-<img src="Images/ChurnPrediction.png" width="800">
+<img src="https://github.com/11-aryan/Customer-Churn-Prediction/Images/numpy.png" width="800">
+
+
 ### Exploratory Data Analysis
 The data preprocessing and EDA can be found in the ***EDA.ipynb*** jupyter notebook.
 The data was preprocessed to remove duplicates, the dropping the Null values as the percentage of Null values was small.
